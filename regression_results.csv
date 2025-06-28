@@ -1,0 +1,6 @@
+Model,MAE,MSE,RMSE,R²
+Simple Linear,58.5,4400.0,66.3,0.45
+Multiple Linear,45.7,2800.0,52.9,0.54
+Polynomial (deg=2),43.1,2700.0,51.9,0.56
+Ridge,46.0,2850.0,53.3,0.53
+Lasso,45.9,2830.0,53.2,0.53
